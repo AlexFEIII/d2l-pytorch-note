@@ -2,9 +2,9 @@
 import json
 import os
 
-ipynb_file_path = os.path.join('08线性回归/')
+ipynb_file_path = os.path.join('40狗的品种识别/')
 ipynb_file_names = [
-    '线性回归',
+    '狗的品种识别',
 ]
 
 for name in ipynb_file_names:
